@@ -1,5 +1,5 @@
 ---
-code: javascript:%20void%20function()%7Blet%20map=%22%22;for(const%20e%20of%20document.querySelectorAll(%22h1,%20h2,%20h3,%20h4,%20h5,%20h6%22))%7Bconst%20t=getText(e);if(e.clientHeight%3E0&&getText(e))%7Bconst%20n=parseInt(e.tagName.match(/%5Cd/)%5B0%5D);map+=new%20Array(2*(n-1)).fill(%22-%22).join(%22%22)+e.tagName.toLowerCase()+%22:%20%22+t+%22%5Cn%22%7D%7Dfunction%20getText(e)%7Breturn%20e.innerText.replace(/%5Cn/g,%22%22)%7Dconsole.log(map);%7D()
+code: javascript:%20void%20function()%7Blet%20map=%22%22;for(const%20e%20of%20document.querySelectorAll(%22h1,%20h2,%20h3,%20h4,%20h5,%20h6%22))%7Bconst%20t=getText(e);if(e.clientHeight%3E0&&t)%7Bconst%20n=parseInt(e.tagName.match(/%5Cd/)%5B0%5D);map+=new%20Array(2*(n-1)).fill(%22-%22).join(%22%22)+e.tagName.toLowerCase()+%22:%20%22+t+%22%5Cn%22%7D%7Dfunction%20getText(e)%7Breturn%20e.innerText.replace(/%5Cn/g,%22%22)%7Dconsole.log(map);%7D()
 ---
 <style media="screen">
   body {
