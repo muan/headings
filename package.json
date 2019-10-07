@@ -1,0 +1,24 @@
+{
+  "name": "headings",
+  "version": "1.0.0",
+  "description": "Bookmarklet for generating heading structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node generate-script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muan/headings.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muan/headings/issues"
+  },
+  "homepage": "https://github.com/muan/headings#readme",
+  "devDependencies": {
+    "terser": "^4.3.8"
+  }
+}
