@@ -35,6 +35,10 @@ h1: Fix example in Chrome #3
 
 Source: [WebAIM: Screen Reader User Survey #8 Results](https://webaim.org/projects/screenreadersurvey8)
 
+## How
+
+[WebAIM: Semantic Structure](https://webaim.org/techniques/semanticstructure/#contentstructure)
+
 ## Development
 
 1. `npm install`
