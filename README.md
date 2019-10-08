@@ -23,6 +23,18 @@ h1: Fix example in Chrome #3
 ----h3: haacked commented on Jul 22
 ```
 
+## Why
+
+> > When trying to find information on a lengthy web page, which of the following are you most likely to do first?
+
+> **Navigate through the headings on the page –	68.8%**
+
+> > When navigating a web page by headings, how useful are the heading levels (e.g., "Heading 1", "Heading 2", etc.) to you?
+
+> The usefulness of proper heading structures is very high, **with 86.1% of respondents finding heading levels very or somewhat useful**.
+
+Source: [WebAIM: Screen Reader User Survey #8 Results](https://webaim.org/projects/screenreadersurvey8)
+
 ## Development
 
 1. `npm install`
