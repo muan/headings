@@ -37,7 +37,11 @@ Source: [WebAIM: Screen Reader User Survey #8 Results](https://webaim.org/projec
 
 ## How
 
-[WebAIM: Semantic Structure](https://webaim.org/techniques/semanticstructure/#contentstructure)
+See [WebAIM: Semantic Structure](https://webaim.org/techniques/semanticstructure/#contentstructure).
+
+### Outline algorithm?
+
+[Outline algorithm](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML_sections_and_outlines) is [not implemented anywhere](https://github.com/whatwg/html/issues/83). 
 
 ## Development
 
